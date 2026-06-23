@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @migi1010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Kuanyi Chang
+
+Industrial Engineering student focused on smart manufacturing, operations systems, data analytics, and software development.
+## About
+
+I am currently studying Industrial Engineering and developing practical systems that combine operations management, data analytics, and software engineering.
+
+My interests include:
+
+- Smart Manufacturing
+- Workforce Operations
+- Industrial Automation
+- Data Analytics
+- Applied Machine Learning
+- Full-Stack Development
 
 <!---
 migi1010/migi1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
