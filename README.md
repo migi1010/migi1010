@@ -1,40 +1,32 @@
 # Kuanyi Chang
 
 Industrial Engineering student focused on smart manufacturing, operations systems, data analytics, and software development.
-## About
+# About
 
-I am currently studying Industrial Engineering and developing practical systems that combine operations management, data analytics, and software engineering.
+Industrial Engineering student focused on building practical systems for smart manufacturing, digital twin applications, workforce operations, and data analytics.
 
-My interests include:
+Current interests:
 
-- Smart Manufacturing
-- Workforce Operations
-- Industrial Automation
-- Data Analytics
-- Applied Machine Learning
-- Full-Stack Development
+* Smart Manufacturing
+* Digital Twin Systems
+* Industrial Automation
+* Workforce Operations Systems
+* Data Analytics
+* Applied AI
+* Full-Stack Development
 
-## Technical Skills
+I enjoy combining industrial engineering principles, software engineering, and data-driven decision making to develop systems that improve operational visibility, efficiency, and automation.
 
-Programming
-- Python
-- TypeScript
-- SQL
 
-Frameworks
-- Next.js
-- React
-- FastAPI
+## Technical Interests
 
-Database
-- PostgreSQL
-- SQLite
-- Prisma
+* Smart Manufacturing
+* Digital Twin
+* Industrial Engineering
+* Operations Research
+* Data Analytics
+* Machine Learning
+* Industrial Automation
+* Full-Stack Systems
+* Simulation & Optimization
 
-Analytics
-- Statistics
-- Data Analysis
-- Machine Learning<!---
-migi1010/migi1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
