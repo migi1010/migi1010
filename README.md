@@ -14,7 +14,27 @@ My interests include:
 - Applied Machine Learning
 - Full-Stack Development
 
-<!---
+## Technical Skills
+
+Programming
+- Python
+- TypeScript
+- SQL
+
+Frameworks
+- Next.js
+- React
+- FastAPI
+
+Database
+- PostgreSQL
+- SQLite
+- Prisma
+
+Analytics
+- Statistics
+- Data Analysis
+- Machine Learning<!---
 migi1010/migi1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
